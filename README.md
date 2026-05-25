@@ -23,7 +23,9 @@
 
 ## 🏅 Badges
 
-<!-- Add your API Learning 101 badge image manually here -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" width="180"/>
+</p>
 
 ---
 
@@ -64,9 +66,12 @@
 - Responsive UI using Tailwind CSS  
 - Deployed using Render  
 
-### 🔹 Weather Forecasting App
-- Developed using JavaScript and API integration  
-- Displays real-time weather data with a responsive UI  
+### 🔹 Promptly AI Chatbot
+- Built an AI-powered chatbot using Gemini API  
+- Supports real-time AI interaction and image uploads  
+- Designed a responsive glassmorphism UI with Lottie animations  
+- Improved understanding of API integration, async JavaScript, and AI response handling  
+- Developed using HTML, CSS, and JavaScript  
 
 ---
 
