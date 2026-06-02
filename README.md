@@ -86,9 +86,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nyxXeclipse&theme=tokyonight" />
-</p>
+[![GitHub Streak](https://streak-stats.vercel.app?user=nyxXeclipse&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
