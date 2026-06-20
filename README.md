@@ -24,7 +24,11 @@
 ## 🏅 Badges
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" width="180"/>
+  <a href="https://www.credly.com/badges/0fc2d24a-5d49-491b-ac68-ddb0c3d0aedd/public_url">
+    <img src="https://images.credly.com/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" width="180" alt="Credly Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" width="180" alt="API Learning 101 Badge"/>
 </p>
 
 ---
