@@ -81,7 +81,6 @@
 
 ## 🏆 Achievements & Certifications
 - ☁️ Azure Fundamentals (AZ-900) Certified  
-- 🔐 CSCU Certified – EC-Council  
 - 🌐 Top 500 – Google Cloud Arcade Program 2026  
 - 📚 NPTEL Certifications (Java, Cloud Computing, C)  
 - 📬 API Learning 101 Challenge Completed – Postman  
