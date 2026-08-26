@@ -72,7 +72,7 @@
 
 ### 🔹 Promptly AI Chatbot
 - Built an AI-powered chatbot using Gemini API  
-- Supports real-time AI interaction and image uploads  
+- Supports real-time AI interaction and faster image uploads  
 - Designed a responsive glassmorphism UI with Lottie animations  
 - Improved understanding of API integration, async JavaScript, and AI response handling  
 - Developed using HTML, CSS, and JavaScript  
