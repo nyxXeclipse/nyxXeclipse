@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 💡 Passionate about building scalable web applications  
 - 🌱 Currently exploring **Cloud Computing & Full Stack Development**  
-- 💻 Strong foundation in **Java** and problem-solving  
+- 💻 Strong foundation in **Java**, DSA and problem-solving  
 - 🤖 Interested in **AI-powered applications**  
 
 ---
@@ -80,7 +80,7 @@
 ---
 
 ## 🏆 Achievements & Certifications
-- ☁️ Azure Fundamentals (AZ-900) Certified  
+- ☁️ Azure Fundamentals (AZ-900) Certified
 - 🌐 Top 500 – Google Cloud Arcade Program 2026  
 - 📚 NPTEL Certifications (Java, Cloud Computing, C)  
 - 📬 API Learning 101 Challenge Completed – Postman  
