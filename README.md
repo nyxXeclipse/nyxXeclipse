@@ -14,12 +14,12 @@
 * ⭐ **2★ CodeChef** | Max Rating **1528**
 * 🏆 **Top 8%** — Google Cloud Arcade Program 2026
 
-<br>
+---
 
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/dishitagupta" target="_blank">
+  <a href="https://linkedin.com/in/dishitaaguptaa" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="https://github.com/nyxcodex" target="_blank">
