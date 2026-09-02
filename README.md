@@ -1,96 +1,102 @@
-# Hi there 👋, I'm Nyx
+<h1 align="center">Hi 👋, I'm Nyx</h1>
 
-🎓 Student at Institute of Engineering and Technology, Lucknow  
-💻 Full Stack Developer (MERN) | ☁️ Cloud Enthusiast  
+<h3 align="center">Full-Stack Developer | Java & DSA | Cloud Enthusiast</h3>
 
----
-
-## 🚀 About Me
-- 💡 Passionate about building scalable web applications  
-- 🌱 Currently exploring **Cloud Computing & Full Stack Development**  
-- 💻 Strong foundation in **Java**, DSA and problem-solving  
-- 🤖 Interested in **AI-powered applications**  
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nyxXeclipse&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nyxcodex&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
+<img align="right" alt="Coding" width="380" src="./assets/Programming_Computer_20260902100039.gif">
 
-## 🏅 Badges
+### 👩‍💻 About Me
+
+* 🚀 Building full-stack applications with the **MERN stack**
+* ☁️ Exploring **Cloud Computing & Generative AI**
+* 🧠 Solved **350+ DSA problems**
+* ⭐ **2★ CodeChef** | Max Rating **1528**
+* 🏆 **Top 8%** — Google Cloud Arcade Program 2026
+
+<br>
+
+### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.credly.com/badges/0fc2d24a-5d49-491b-ac68-ddb0c3d0aedd/public_url">
-    <img src="https://images.credly.com/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" width="180" alt="Credly Badge"/>
+  <a href="https://linkedin.com/in/dishitagupta" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" width="180" alt="API Learning 101 Badge"/>
+  <a href="https://github.com/nyxcodex" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,c,html,css" />
+</p>
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,vscode" />
+</p>
+
+</div>
 
 ---
 
-## 📌 Projects
+# 🐍 Contribution Graph
 
-### 🔹 Resume Builder (MERN Stack)
-- Built a full-stack resume builder with real-time preview  
-- Integrated OpenAI API for AI-powered content enhancement  
-- Responsive UI using Tailwind CSS  
-- Deployed using Render  
+<div align="center">
 
-### 🔹 Promptly AI Chatbot
-- Built an AI-powered chatbot using Gemini API  
-- Supports real-time AI interaction and faster image uploads  
-- Designed a responsive glassmorphism UI with Lottie animations  
-- Improved understanding of API integration, async JavaScript, and AI response handling  
-- Developed using HTML, CSS, and JavaScript  
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
-## 🏆 Achievements & Certifications
-- ☁️ Azure Fundamentals (AZ-900) Certified
-- 🌐 Top 500 – Google Cloud Arcade Program 2026  
-- 📚 NPTEL Certifications (Java, Cloud Computing, C)  
-- 📬 API Learning 101 Challenge Completed – Postman  
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nyxcodex&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="170" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=nyxcodex&theme=tokyonight&hide_border=false" height="170" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxcodex&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=nyxXeclipse&theme=tokyonight)](https://git.io/streak-stats)
+⭐ **Build. Learn. Break. Improve. Repeat.**
 
----
-
-⭐ *Always learning, building, and improving...*
+</div>
