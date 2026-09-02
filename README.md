@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nyx</h1>
+<h1 align="center">Hi, I'm Nyx</h1>
 
 <h3 align="center">Full-Stack Developer | Java & DSA | Cloud Enthusiast</h3>
 
@@ -6,9 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=nyxcodex&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="220" height="220" src="./assets/nyxcodexanimation.gif">
-
-### 👩‍💻 About Me
+<img align="right" alt="Coding" width="140" height="140" src="./assets/nyxcodexanimation.gif">
 
 * 🚀 Building full-stack applications with the **MERN stack**
 * ☁️ Exploring **Cloud Computing & Generative AI**
@@ -31,7 +29,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -67,29 +65,19 @@
 
 </div>
 
----
-
-# 🐍 Contribution Graph
+## 📊 GitHub Stats 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+[![GitHub Streak](https://streak-stats.vercel.app?user=nyxcodex&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
----
-
-# 📊 GitHub Stats
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nyxcodex&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="170" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=nyxcodex&theme=tokyonight&hide_border=false" height="170" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxcodex&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
