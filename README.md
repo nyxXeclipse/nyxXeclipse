@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=nyxcodex&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="./assets/Programming_Computer_20260902100039.gif">
+<img align="right" alt="Coding" width="220" height="220" src="./assets/nyxcodexanimation.gif">
 
 ### 👩‍💻 About Me
 
