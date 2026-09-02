@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=nyxcodex&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="140" height="140" src="./assets/nyxcodexanimation.gif">
+<img align="right" alt="Coding" width="120" height="120" src="./assets/nyxcodexanimation.gif">
 
 * 🚀 Building full-stack applications with the **MERN stack**
 * ☁️ Exploring **Cloud Computing & Generative AI**
