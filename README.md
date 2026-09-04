@@ -10,7 +10,7 @@
 
 * 🚀 Building full-stack applications with the **MERN stack**
 * ☁️ Exploring **Cloud Computing & Generative AI**
-* 🧠 Solved **350+ DSA problems**
+* 🧠 Progressed to round 2 of  **BharatAcademix CodeQuest Hackathon**
 * ⭐ **2★ CodeChef** | Max Rating **1528**
 * 🏆 **Top 8%** — Google Cloud Arcade Program 2026
 
