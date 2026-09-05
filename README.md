@@ -25,9 +25,6 @@
   <a href="https://github.com/nyxcodex" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
-  <a href="https://portfolio-flax-ten-30.vercel.app/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" width="40" />
-  </a>
 </p>
 
 ---
